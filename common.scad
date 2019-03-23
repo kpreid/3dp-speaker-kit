@@ -1,5 +1,5 @@
 epsilon = 0.01;
-cut_height = 2 + epsilon * 2;
+cut_height = 3 + epsilon * 2;
 
 module blank() {
     translate([0, 0, 157])

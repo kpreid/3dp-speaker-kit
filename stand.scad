@@ -32,7 +32,7 @@ difference() {
             }
         }
         
-        sphere(r=roundover, $fn=12);
+        sphere(r=roundover, $fn=8);
     }
 
     // set height above base and offset to back
